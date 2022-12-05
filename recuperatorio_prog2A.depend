@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1670243387 source:c:\users\usuario\desktop\codeblocks\recuperatorio_prog2a\main.c
+	<stdio.h>
+	"string.h"
+	"ctype.h"
+	<stdlib.h>
+
