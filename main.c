@@ -27,7 +27,7 @@ int main()
     eVehiculo harcodeo = {1,"Toyota",2,50.2};
     if(arc != NULL)
     {
-        fprintf(arc,"%d %s %d %f\n",harcodeo.id,harcodeo.marca,harcodeo.peso,harcodeo.tipo);
+        fprintf(arc,"%d %s %d %f\n",harcodeo.id,harcodeo.marca,harcodeo.tipo,harcodeo.peso);
         printf("El programa se sobreescribio con exito!\n");
     }
     fclose(arc);
